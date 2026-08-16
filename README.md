@@ -1,6 +1,6 @@
 # Magic Wand PCB
 
-![3D View of Magic Wand PCB](image_2026-06-14_18-38-41.jpg)
+![3D View of Magic Wand PCB](Docs/image_2026-06-14_18-38-41.jpg)
 
 ## Overview
 This project is a custom printed circuit board designed in Altium Circuit Maker that functions as a "Magic Wand". By waving the board in the air, the sequential flashing of the LEDs creates a Persistence of Vision (POV) effect. 
