@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MagicWand1.CMPcbDoc.PCBDoc   6/14/2026  6:59:39 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MagicWand1.CMPcbDoc.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Round             16        PTH        5.51inch (139.86mm)
+T2      30mil (0.75mm)                                            Round             16        PTH        6.70inch (170.17mm)
+T3      35mil (0.9mm)                                             Round             40        PTH        6.95inch (176.63mm)
+T4      39mil (1mm)                                               Round             19        PTH        6.42inch (163.01mm)
+T5      47mil (1.2mm)                                             Round             6         PTH        6.03inch (153.16mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              97
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,69 @@
+*************************************************************
+FileName = MagicWand1.CMPcbDoc.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : MagicWand1.CMPcbDoc_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MagicWand1.CMPcbDoc_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MagicWand1.CMPcbDoc_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : MagicWand1.CMPcbDoc_Profile.gbr
+
+
+Used DCodes :
+    D24
+*************************************************************
+
