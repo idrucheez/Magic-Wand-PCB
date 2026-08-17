@@ -11,6 +11,6 @@ This project is a custom printed circuit board designed in Altium Circuit Maker 
 * **Decoder/Driver:** A CD74HC138E 3-to-8 decoder interprets the binary count to sequentially drive 8 LEDs.
 
 ## Project Structure
-* /Docs: Contains schematic (Docs/image_2026-06-14_18-36-40.jpg) and PCB routing layout (`image_2026-06-14_18-46-59.jpg`).
+* * **/Docs**: Contains schematic: ![Schematic](Docs/image_2026-06-14_18-36-40.jpg) and PCB routing layout: ![Layout](Docs/image_2026-06-14_18-46-59.jpg)
 * `/Hardware`: Contains the Altium Circuit Maker design files and BOM (Bill of Materials).
 * `/Manufacturing`: Contains generated Gerber and NC Drill files ready for fabrication.
